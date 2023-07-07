@@ -1,2 +1,2 @@
-My first readme
-this line was updated from git hub
+My first readme updated copy
+
